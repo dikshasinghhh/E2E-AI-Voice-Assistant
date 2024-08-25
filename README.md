@@ -1,4 +1,4 @@
-# E2E-AI-Voice-Assistant
+# E2E-AI-Voice-Assistant pipeline using Hugging Face
 # Overview
 The project implements Speech-to-Text (STT), natural language processing using a language model (LLM), and Text-to-Speech (TTS) to create a fully functional voice assistant. The assistant can transcribe spoken audio, process the transcribed text to generate responses, and convert those responses back into speech.<br>
 <p align="center">
