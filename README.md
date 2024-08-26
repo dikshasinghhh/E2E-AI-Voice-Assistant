@@ -31,6 +31,8 @@ The project implements Speech-to-Text (STT), natural language processing using a
 1. The voice assistant accurately transcribes audio, processes the text, and generates natural-sounding speech.<br>
 2. The pitch adjustment and VAD features enhance the audio output quality and usability.<br>
 
+![image](https://github.com/user-attachments/assets/15dddfc3-d66f-478e-af6e-33584de94f03)
+
 # Conclusion
 This project successfully demonstrates the integration of advanced NLP models into a voice assistant pipeline. Future work could focus on real-time processing, enhanced user interaction, and additional language support.
 <br>
